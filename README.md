@@ -1,4 +1,4 @@
-## Hi there 👋
+## Your Technical Partner from Idea to Production
 
 <!--
 **kailabs-studio-dev/kailabs-studio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
